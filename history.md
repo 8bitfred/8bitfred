@@ -2,7 +2,7 @@
 layout: page
 title: History
 permalink: /history/
-nav_order: 1
+nav_order: 2
 ---
 
 Fred was developed in 1983 by Carlos Granados, Paco Menéndez and

@@ -2,7 +2,7 @@
 layout: page
 title: Game
 permalink: /game/
-nav_order: 2
+nav_order: 3
 ---
 
 ![Fred - Tape inlay - Investronica](/assets/images/tape_inlay-fred-investronica.jpg)

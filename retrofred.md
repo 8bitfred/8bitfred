@@ -2,7 +2,7 @@
 layout: page
 title: RetroFred
 permalink: /retrofred/
-nav_order: 3
+nav_order: 4
 ---
 
 RetroFred is a modern port of Fred. It currently supports Linux,
