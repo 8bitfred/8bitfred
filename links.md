@@ -28,3 +28,7 @@ Other ports and remakes
 
   * [Fred Android Remake](https://play.google.com/store/apps/details?id=com.fredandroidremake&hl=en_US&gl=US) by Juan Luis Perea
 
+  * [Fred Remake](https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en) by Sarasoft
+
+
+  * [Fred](https://www.classic-retro-games.com/games/platform/fred-128) by PeeJay
