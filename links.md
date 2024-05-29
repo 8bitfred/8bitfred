@@ -26,17 +26,25 @@ Amstrad CPC (Roland on the Ropes)
 Other ports and remakes
 -----------------------
 
-  * 1994, HP 48 [Fred HP48](https://8bitfred.github.io/fredhp48/) by Alfredo Catalina
+  * 1993, DOS, [Fred PC](https://8bitfred.github.io/fredpc/) by Alfredo Catalina and Miguel Catalina.
 
-  * 1997, Windows [Fred Remake](https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en) by Sarasoft
+  * 1994, HP 48, [Fred HP48](https://8bitfred.github.io/fredhp48/) by Alfredo Catalina.
 
-  * 2002, Windows [Fred PC](https://www.classic-retro-games.com/games/platform/fred-128) by PeeJay
+  * 1997, Windows, [Fred Remake](https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en) by Sarasoft.
 
-  * 2002, Windows [Fred: The Remake](https://www.mobygames.com/game/45287/fred-the-remake/) by [FZero Software](http://www.fzero.co.uk/)
+  * 2002, Windows, [Fred PC](https://www.classic-retro-games.com/games/platform/fred-128) by PeeJay.
 
-  * 2018, JS/HTML5 [Uprk.cz](https://uprk.cz/) by Lubomír "Bob" Březina.
+  * 2002, Windows, [Fred: The Remake](https://www.mobygames.com/game/45287/fred-the-remake/) by [FZero Software](http://www.fzero.co.uk/)
 
-  * 2023, Android [Fred Android Remake](https://play.google.com/store/apps/details?id=com.fredandroidremake&hl=en_US&gl=US) by Juan Luis Perea
+  * 2018, JS/HTML5, [Uprk.cz](https://uprk.cz/) by Lubomír "Bob" Březina.
+
+  * 2018, Python, [Roland On The Ropes - Remake](https://www.pygame.org/project/3494/) by Fernando Paniagua.
+
+  * 2020, Steam, [Pharao Reloaded](https://store.steampowered.com/app/1270280/Pharao_Reloaded/) by Nethelpers Games.
+
+  * 2023, Android, [Fred Android Remake](https://play.google.com/store/apps/details?id=com.fredandroidremake&hl=en_US&gl=US) by Juan Luis Perea.
+
+  * 2024, Commodore 64, [Kazik in the Underworld of Tema +3D](https://csdb.dk/release/index.php?id=241469) by Laxity, Onslaught.
 
 
 
