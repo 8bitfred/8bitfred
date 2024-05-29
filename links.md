@@ -23,6 +23,13 @@ Amstrad CPC (Roland on the Ropes)
 
   * [Classic Reload](https://classicreload.com/cpc-roland-on-the-ropes.html)
 
+Commodore 64
+------------
+
+  * [Computer Emuzone](https://computeremuzone.com/ficha.php?id=96&sec=c64)
+
+  * [Lemon 64](https://www.lemon64.com/game/fred)
+
 Other ports and remakes
 -----------------------
 
@@ -40,7 +47,7 @@ Other ports and remakes
 
   * 2018, Python, [Roland On The Ropes - Remake](https://www.pygame.org/project/3494/) by Fernando Paniagua.
 
-  * 2020, Steam, [Pharao Reloaded](https://store.steampowered.com/app/1270280/Pharao_Reloaded/) by Nethelpers Games.
+  * 2020, Windows, [Pharao Reloaded](https://store.steampowered.com/app/1270280/Pharao_Reloaded/) by Nethelpers Games.
 
   * 2023, Android, [Fred Android Remake](https://play.google.com/store/apps/details?id=com.fredandroidremake&hl=en_US&gl=US) by Juan Luis Perea.
 

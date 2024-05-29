@@ -7,7 +7,9 @@ nav order: 2
 ---
 
 
-HP48 Calculator Port
+MSDOS Port
 --------------------
 
 ![Screenshot](/assets/images/FredPC/Captura_01.jpg)
+![Screenshot](/assets/images/FredPC/Captura_02.jpg)
+![Screenshot](/assets/images/FredPC/Captura_03.jpg)
