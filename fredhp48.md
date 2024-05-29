@@ -1,7 +1,9 @@
 ---
 layout: page
+title: Fred HP48
 permalink: /fredhp48/
-nav_order: 5
+parent: links
+nav order: 2
 ---
 
 
