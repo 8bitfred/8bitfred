@@ -24,11 +24,18 @@ Amstrad CPC (Roland on the Ropes)
 Other ports and remakes
 -----------------------
 
-  * [Fred: The Remake](https://www.mobygames.com/game/45287/fred-the-remake/) by [FZero Software](http://www.fzero.co.uk/)
+  * 1997, Windows [Fred Remake](https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en) by Sarasoft
 
-  * [Fred Android Remake](https://play.google.com/store/apps/details?id=com.fredandroidremake&hl=en_US&gl=US) by Juan Luis Perea
+  * 2002, Windows [Fred PC](https://www.classic-retro-games.com/games/platform/fred-128) by PeeJay
 
-  * [Fred Remake](https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en) by Sarasoft
+  * 2002, Windows [Fred: The Remake] (https://www.mobygames.com/game/45287/fred-the-remake/) by [FZero Software](http://www.fzero.co.uk/)
+
+  * 2018, JS/HTML5 [Uprk.cz](https://uprk.cz/) by Lubomír "Bob" Březina.
+
+  * 2023, Android [Fred Android Remake](https://play.google.com/store/apps/details?id=com.fredandroidremake&hl=en_US&gl=US) by Juan Luis Perea
 
 
-  * [Fred](https://www.classic-retro-games.com/games/platform/fred-128) by PeeJay
+
+
+
+  
