@@ -3,6 +3,7 @@ layout: page
 title: Links
 permalink: /links/
 nav_order: 5
+has_children: true
 ---
 
 ZX Spectrum
@@ -24,6 +25,8 @@ Amstrad CPC (Roland on the Ropes)
 Other ports and remakes
 -----------------------
 
+  * 1994, HP 48 [Fred HP48] (https://8bitfred.github.io/links/fredhp48/) by Alfredo Catalina
+
   * 1997, Windows [Fred Remake](https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en) by Sarasoft
 
   * 2002, Windows [Fred PC](https://www.classic-retro-games.com/games/platform/fred-128) by PeeJay
@@ -33,6 +36,7 @@ Other ports and remakes
   * 2018, JS/HTML5 [Uprk.cz](https://uprk.cz/) by Lubomír "Bob" Březina.
 
   * 2023, Android [Fred Android Remake](https://play.google.com/store/apps/details?id=com.fredandroidremake&hl=en_US&gl=US) by Juan Luis Perea
+
 
 
 
