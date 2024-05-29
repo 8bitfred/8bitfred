@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Fred HP48
+title: fredhp48
 permalink: /fredhp48/
-parent: links
+parent: Links
 nav order: 2
 ---
 
