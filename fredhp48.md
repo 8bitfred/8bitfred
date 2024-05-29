@@ -10,4 +10,4 @@ nav order: 2
 HP48 Calculator Port
 --------------------
 
-![Screenshot](/assets/images/HP48_Captura_01.jpg)
+![Screenshot](/assets/images/FredHP48/Captura_01.jpg)
