@@ -5,7 +5,7 @@ permalink: /about/
 nav_order: 10
 ---
 
-Created by Alfredo Catalina and Miguel Catalina.
+Created by Alfredo Catalina and Miguel Catalina, 2024.
 
 This site uses [Just the
 Docs](https://github.com/just-the-docs/just-the-docs), a theme for
