@@ -26,7 +26,7 @@ Amstrad CPC (Roland on the Ropes)
 Other ports and remakes
 -----------------------
 
-  * 1994, HP 48 [Fred HP48](https://8bitfred.github.io/links/fredhp48/) by Alfredo Catalina
+  * 1994, HP 48 [Fred HP48](https://8bitfred.github.io/fredhp48/) by Alfredo Catalina
 
   * 1997, Windows [Fred Remake](https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en) by Sarasoft
 
