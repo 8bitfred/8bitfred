@@ -2,8 +2,6 @@
 layout: page
 title: Links
 permalink: /links/
-has_children: true
-has_toc: false
 nav_order: 5
 ---
 
