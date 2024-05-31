@@ -33,10 +33,6 @@ Commodore 64
 Other ports and remakes
 -----------------------
 
-  * 1993, DOS, [Fred PC](https://8bitfred.github.io/fredpc/) by Alfredo Catalina and Miguel Catalina.
-
-  * 1994, HP 48, [Fred HP48](https://8bitfred.github.io/fredhp48/) by Alfredo Catalina.
-
   * 1997, Windows, [Fred Remake](https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en) by Sarasoft.
 
   * 2002, Windows, [Fred PC](https://www.classic-retro-games.com/games/platform/fred-128) by PeeJay.
