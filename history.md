@@ -9,7 +9,7 @@ nav_order: 2
 
 A conversion for the Amstrad CPC, written by the same team including [Camilo Cela](https://www.devuego.es/bd/fdesarrollador/camilo-cela), was launched by [Amsoft](https://en.wikipedia.org/wiki/Amsoft) as [Roland on the Ropes](https://www.cpcwiki.eu/index.php/Roland_on_the_Ropes) in 1984, as part of the [Roland](https://en.wikipedia.org/wiki/Roland_(game_character)) video game series.
 
-The team founded "Made in Spain" studio in 1985 as well as the dealer Zigurat Software, SL. They published the well known titles [Sir Fred](https://worldofspectrum.org/archive/software/games/sir-fred-made-in-spain) (1985) and [Mistery of the Nile](https://worldofspectrum.org/archive/software/games/el-misterio-del-nilo-zigurat-software) (1987) amongst others.
+The team founded "Made in Spain" studio in 1985 as well as the dealer [Zigurat Software, SL] (https://es.wikipedia.org/wiki/Zigurat_(empresa)). 
 
 
 
