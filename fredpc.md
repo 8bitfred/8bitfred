@@ -1,8 +1,8 @@
 ---
 layout: page
-title: fredpc
+#title: fredpc
 permalink: /fredpc/
-parent: RetroFred
+#parent: RetroFred
 nav order: 2
 ---
 

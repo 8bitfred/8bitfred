@@ -1,8 +1,8 @@
 ---
 layout: page
-title: fredhp48
+#title: fredhp48
 permalink: /fredhp48/
-parent: RetroFred
+#parent: RetroFred
 nav order: 2
 ---
 
