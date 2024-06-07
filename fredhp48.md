@@ -2,7 +2,7 @@
 layout: page
 title: fredhp48
 permalink: /fredhp48/
-parent: Links
+parent: RetroFred
 nav order: 2
 ---
 
