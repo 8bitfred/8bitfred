@@ -52,7 +52,7 @@ plugins:
 #   - vendor/ruby/
 
 # Site logo 
-logo: "/assets/images/Site Logo/Fred.jpg"
+logo: "/assets/images/Site Logo/Fred_mini.jpg"
 
 favicon_ico: "/assets/images/fred_icon.ico"
 
