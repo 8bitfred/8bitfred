@@ -51,6 +51,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Site logo 
+logo: "/assets/images/Site Logo/Fred.jpg"
+
 favicon_ico: "/assets/images/fred_icon.ico"
 
 search_enabled: false
