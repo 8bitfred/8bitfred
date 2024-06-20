@@ -1,9 +1,8 @@
 ---
 layout: page
-#title: fredpc
-permalink: /fredpc/
-#parent: RetroFred
-nav order: 2
+title: fredpc
+parent: Retro-Fred
+nav_exclude: true
 ---
 
 

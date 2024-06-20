@@ -20,8 +20,6 @@
 
 title: Fred
 email: miguel@8bitfred.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This site is dedicated to the classic ZX Spectrum videogame Fred
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.8bitfred.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  migcat22
