@@ -6,8 +6,12 @@ has_children: false
 has_toc: false
 ---
 
-RetroFred is a modern port of Fred. It currently supports Scratch, Linux,
-Windows and Android, and we are working on MacOS and iOS versions.
+Retro-Fred is a modern port of Fred. There is a version in
+Scratch. And another one in C++, using the SDL library, that runs on
+Linux, Windows, MacOS and Android:
+
+* [Retro-Fred in GitHub](https://github.com/8bitfred/retro-fred)
+* [Retro-Fred releases](https://github.com/8bitfred/retro-fred/releases)
 
 Early attempts
 --------------
