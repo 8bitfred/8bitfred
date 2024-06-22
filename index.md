@@ -6,5 +6,7 @@ layout: home
 nav_order: 1
 ---
 
-This site is dedicated to the classic ZX Spectrum videogame Fred, one
-of the very first videogames developed in Spain.
+Fred is one of the first video-games ever developed in Spain. You can
+learn about its [history](history) and the [game play](game) here. Or
+you can play a [port](retro-fred) of the original game. Enjoy!
+
