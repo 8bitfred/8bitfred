@@ -34,7 +34,7 @@ exit. At the beginning of each level the maze [is generated
 randomly](https://www.youtube.com/watch?v=6q3bNHvj92c) in front of the
 user. Carlos, who had just graduated high school and was about to
 start his Physics degree, was fascinated by the maze generation, and
-challenged himself to write a similar algorithm in his Sinclair ZX81
+challenged himself to write a similar algorithm in his Spectrum
 computer. He quickly completed it, and had the idea that the random
 maze could be used for a video-game.
 
@@ -42,10 +42,9 @@ After his summer vacation Carlos got together with his friends,
 Fernando and Paco, and they set the basis for the game: the goal would
 be to exit the maze; the main character would be an adventurer, like
 Indiana Jones, with a gun to fight the enemies; and the setting, a
-pyramid. They completed the game for the ZX Spectrum in just a few
-weeks. And less than one month after that they finished the Amstrad
-CPC version, which would be released under the name "Roland on the
-Ropes".
+pyramid. They completed the game in just a few weeks. And one month
+after that they finished the Amstrad CPC version, which would be
+released under the name "Roland on the Ropes".
 
 Fred received very positive reviews by the specialized press. Crash
 Magazine ([issue 3, p84](Crash03-Apr84-p84.pdf)) gave it a score of
