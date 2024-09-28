@@ -31,6 +31,8 @@ Commodore 64
 Other ports and remakes
 -----------------------
 
+  * 1985, Texas Instruments TI-99/4A, [Freddy](https://www.tigameshelf.net/asm.htm) by Arnd Russmann (Saurussoft).
+
   * 1997, Windows, [Fred Remake](https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en) by Sarasoft.
 
   * 2002, Windows, [Fred PC](https://www.classic-retro-games.com/games/platform/fred-128) by PeeJay.
