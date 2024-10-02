@@ -39,5 +39,5 @@ Retro-Fred Snapshots
 ![Hall Of Fame](/assets/images/snapshots/hall-of-fame.png)
 ![Level 1 - Start](/assets/images/snapshots/fred-start.png)
 ![Level 1 - Rat and ghost](/assets/images/snapshots/fred_2.png)
-![Full size 1](/assets/images/snapshots/Retro-Fred_Snapshot_Level 1_red.jpg)
-![Full size 2](/assets/images/snapshots/Retro-Fred_Snapshot_Level 4_red.jpg)
+![Full size 1](/assets/images/snapshots/Retro-Fred_Snapshot_Level1_red.jpg)
+![Full size 2](/assets/images/snapshots/Retro-Fred_Snapshot_Level4_red.jpg)
