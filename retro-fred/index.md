@@ -42,3 +42,10 @@ Retro-Fred Snapshots
 ![Full size 1](/assets/images/snapshots/Retro-Fred_Snapshot_Level1_red.jpg)
 ![Full size 2](/assets/images/snapshots/Retro-Fred_Snapshot_Level4_red.jpg)
 ![Scratch](/assets/images/snapshots/scratch.png)
+
+Retro-Fred Videos
+-----------------
+
+[Scratch demo](https://youtu.be/voSDzd5nbiE)
+
+[Android demo](https://www.youtube.com/watch?v=Y9q31v8abQc)
