@@ -49,3 +49,5 @@ Retro-Fred Videos
 [Scratch demo](https://youtu.be/voSDzd5nbiE)
 
 [Android demo](https://www.youtube.com/watch?v=Y9q31v8abQc)
+
+[Full mode demo](https://www.youtube.com/watch?v=A2m3HgWj2Fk)
