@@ -50,4 +50,6 @@ Retro-Fred Videos
 
 [Android demo](https://www.youtube.com/watch?v=Y9q31v8abQc)
 
-[Full mode demo](https://www.youtube.com/watch?v=A2m3HgWj2Fk)
+[Full view demo](https://www.youtube.com/watch?v=A2m3HgWj2Fk)
+
+[Retro-Fred: inside the pyramid full screen] (https://www.youtube.com/watch?v=lGKxAzDW94A)
