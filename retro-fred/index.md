@@ -10,10 +10,11 @@ Retro-Fred in C++
 -----------------
 
 A conversion of Fred to C++ using SDL. It runs on Linux, Windows,
-MacOS and Android.
+MacOS, iOS and Android.
 
 * [Source code in GitHub](https://github.com/8bitfred/retro-fred)
 * [Releases](https://github.com/8bitfred/retro-fred/releases)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.eightbitfred.retro_fred&hl=en)
 
 
 Retro-Fred in Scratch
