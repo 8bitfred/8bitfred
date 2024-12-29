@@ -58,3 +58,6 @@ search_enabled: false
 
 color_scheme: dark
 
+include:
+  - game.md
+
