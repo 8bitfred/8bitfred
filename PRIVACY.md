@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Privacy policy for Retro-Fred
+nav_exclude: true
 ---
 
 
