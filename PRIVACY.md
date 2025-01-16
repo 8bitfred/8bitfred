@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy policy for Retro-Fred
+---
+
+
 Privacy policy for Retro-Fred, by 8bitfred
 ------------------------------------------
 
