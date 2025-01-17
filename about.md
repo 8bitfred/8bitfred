@@ -8,7 +8,7 @@ nav_order: 10
 8bitfred.com and Retro-Fred created by Alfredo Catalina and Miguel Catalina, 2024.
 
 Please contact [Miguel](mailto:miguel@8bitfred.com) or
-[Alfredo](alfredo@8bitfred.com) for any questions on 8bitfred.com and
+[Alfredo](mailto:alfredo@8bitfred.com) for any questions on 8bitfred.com and
 Retro-Fred.
 
 This site uses [Just the
